@@ -1,0 +1,39 @@
+    body {
+    background-color: black;
+}
+.orangeline {
+    width: 100%;
+    border: 3px solid #FF8C00;
+    padding: 20px;
+    margin-top: 105px;
+    position: fixed;
+    display: flex;
+    background-color: #FF8C00;
+    align-items: center;
+    justify-content: center;
+  }
+
+.text2 {
+    font-family: arial;
+    position: fixed;
+    color: white;
+    font-size: large;
+}
+
+.rbximg {
+    position: fixed;
+    margin-top: -165;
+}
+
+.ohnoes {
+    position: fixed;
+    margin-top: 500;
+}
+
+.text3 {
+    font-family: arial;
+    position: fixed;
+    font-size: x-small;
+    color: white;
+    margin-top: 1120;
+}
